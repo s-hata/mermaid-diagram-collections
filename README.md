@@ -1,6 +1,6 @@
 # Mermaid Diagram Collections
 
-```
+```mermaid
 erDiagram
     USER {
         string id
